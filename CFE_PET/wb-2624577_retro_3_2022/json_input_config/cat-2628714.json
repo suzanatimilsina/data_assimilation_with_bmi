@@ -1,0 +1,39 @@
+{
+    "catchment_area_km2": 6.809402429963224,
+    "forcing_file": "wb-2624577_retro_3_2022/forcings/cat-2628714.csv",
+    "partition_scheme": "Schaake",
+    "soil_params": {
+        "depth": 2.0,
+        "D": 2.0,
+        "bb": 3.880831003189087,
+        "satdk": 2.695441732592819e-07,
+        "satpsi": 0.1019167976245804,
+        "slop": 0.193794218554156,
+        "smcmax": 0.460765354295695,
+        "wltsmc": 0.0598409816034836,
+        "expon": 4.0,
+        "expon_secondary": 0.005
+    },
+    "max_gw_storage": 159.259567261,
+    "Cgw": 0.1,
+    "expon": 6.0,
+    "gw_storage": 0.05,
+    "alpha_fc": 0.33,
+    "soil_storage": 0.05,
+    "K_nash": 0.03,
+    "K_lf": 0.01,
+    "nash_storage": [
+        0.0,
+        0.0
+    ],
+    "num_timesteps": 1.0,
+    "verbosity": 1.0,
+    "DEBUG": 0.0,
+    "refkdt": 3.041826655976404,
+    "giuh_ordinates": [
+        1.0,
+        0.0
+    ],
+    "stand_alone": 1,
+    "soil_scheme": "ode"
+}
